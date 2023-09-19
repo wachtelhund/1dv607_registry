@@ -1,0 +1,15 @@
+/home/hampus/repos/1dv607_boat/bin/Debug/net7.0/1dv607_boat
+/home/hampus/repos/1dv607_boat/bin/Debug/net7.0/1dv607_boat.deps.json
+/home/hampus/repos/1dv607_boat/bin/Debug/net7.0/1dv607_boat.runtimeconfig.json
+/home/hampus/repos/1dv607_boat/bin/Debug/net7.0/1dv607_boat.dll
+/home/hampus/repos/1dv607_boat/bin/Debug/net7.0/1dv607_boat.pdb
+/home/hampus/repos/1dv607_boat/obj/Debug/net7.0/1dv607_boat.csproj.AssemblyReference.cache
+/home/hampus/repos/1dv607_boat/obj/Debug/net7.0/1dv607_boat.GeneratedMSBuildEditorConfig.editorconfig
+/home/hampus/repos/1dv607_boat/obj/Debug/net7.0/1dv607_boat.AssemblyInfoInputs.cache
+/home/hampus/repos/1dv607_boat/obj/Debug/net7.0/1dv607_boat.AssemblyInfo.cs
+/home/hampus/repos/1dv607_boat/obj/Debug/net7.0/1dv607_boat.csproj.CoreCompileInputs.cache
+/home/hampus/repos/1dv607_boat/obj/Debug/net7.0/1dv607_boat.dll
+/home/hampus/repos/1dv607_boat/obj/Debug/net7.0/refint/1dv607_boat.dll
+/home/hampus/repos/1dv607_boat/obj/Debug/net7.0/1dv607_boat.pdb
+/home/hampus/repos/1dv607_boat/obj/Debug/net7.0/1dv607_boat.genruntimeconfig.cache
+/home/hampus/repos/1dv607_boat/obj/Debug/net7.0/ref/1dv607_boat.dll
